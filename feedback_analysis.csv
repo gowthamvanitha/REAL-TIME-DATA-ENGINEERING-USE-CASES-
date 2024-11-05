@@ -1,0 +1,501 @@
+SI.NO,Customer ID,Feedback Channel,Rating,Comment,Date
+0,C74218,Social Media,4,Shipping took longer than expected. :) ,13-04-2023
+1,C16799,Customer interviews,4,Response time was a bit slow.!!!,14-11-2023
+2,C76412,Feedback,3,,25-05-2019
+3,C48941,Email,5,Didn't meet my expectations. :(,10-08-2021
+4,C47121,Live Chat,3,Love the new updates!,25-07-2023
+5,C23782,Email,1,Shipping took longer than expected.!!!,16-03-2023
+6,C29549,Social Media,4,I faced issues with payment.,07-09-2020
+7,C24490,Social Media,3,,15-04-2022
+8,C20864,Customer interviews,5,Response time was a bit slow.,23-10-2023
+9,C80729,Social Media,2,,29-08-2019
+10,C90421,Website Feedback,1,,12-07-2023
+11,C49199,Survey,2,,26-06-2024
+12,C72478,Live Chat,5,Too many bugs in the app....,05-07-2019
+13,C97324,Email,1,Product arrived damaged.,21-03-2022
+14,C83173,Live Chat,4,Could improve prduct qualty.,01-09-2021
+15,C81038,Survey,4,"Great experience, very satisfied!??",18-08-2019
+16,C91809,Feedback,1,,12-03-2021
+17,C59232,Email,4,,27-03-2021
+18,C85880,Website Feedback,3,,19-02-2023
+19,C88669,Survey,5,Customer support was helpful....,14-07-2021
+20,C10609,Email,2,,27-02-2020
+21,C48695,Feedback,2,Perfect for my needs!...,09-03-2021
+22,C33265,Website Feedback,5,Too many ads on the platform....,21-01-2024
+23,C89474,Customer interviews,3,,08-04-2022
+24,C69433,Website Feedback,2,The app keeps crashing. :(,23-10-2020
+25,C88998,Email,3,Too many bugs in the app.,28-12-2021
+26,C30477,Live Chat,5,,15-04-2019
+27,C92043,Customer interviews,3,I faced issues with payment.,07-04-2023
+28,C70172,Website Feedback,2,The quality of service has declined. :(,06-02-2022
+29,C22057,Website Feedback,3,I faced issues with payment. :(,22-04-2021
+30,C79018,Feedback,2,Very responsive support team.??,11-04-2022
+31,C60043,Social Media,2,,02-02-2020
+32,C94848,Email,1,Didn't meet my expectations. :) ,17-08-2019
+33,C28695,Survey,3,"Easy to use, very user-friendly.",14-04-2024
+34,C95306,Website Feedback,5,,09-11-2019
+35,C65717,Live Chat,5,Customer suport was helpful.,16-07-2021
+36,C99356,Feedback,5,,05-06-2022
+37,C44401,Website Feedback,4,,09-02-2024
+38,C93918,Live Chat,2,The service was excellent!!!!,19-04-2021
+39,C14822,Live Chat,4,Could improve prduct qualty.,13-03-2020
+40,C11281,Social Media,1,Excellent customer support!,23-10-2022
+41,C95192,Survey,3,The quality of service has declined.,25-08-2019
+42,C66206,Customer interviews,5,Too many ads on the platform.,08-03-2022
+43,C71282,Feedback,4,Product arrived damaged.,29-11-2023
+44,C61790,Email,3,Response time was a bit slow.,19-08-2019
+45,C73980,Website Feedback,5,Excellent customer support!,05-04-2022
+46,C85762,Customer interviews,1,The quality of service has declined.,03-02-2023
+47,C36187,Feedback,2,Too many ads on the platform.,30-01-2019
+48,C44133,Survey,1,Product is overpriced.,14-08-2024
+49,C23018,Live Chat,4,The app is too slow.,24-02-2020
+50,C68373,Feedback,5,Very responsive support team.,11-10-2019
+51,C96563,Survey,3,Customer support was helpful.,03-09-2024
+52,C18255,Social Media,4,I received wrong item.,23-02-2021
+53,C83743,Live Chat,1,The quality of service has declined.,23-08-2023
+54,C97185,Customer interviews,2,Love the new updates!,16-06-2024
+55,C28866,Website Feedback,4,Very responsive support team.,19-12-2021
+56,C68902,Customer interviews,4,"Very quick delivery, thanks!",14-12-2019
+57,C48199,Email,1,Could improve product quality.,05-07-2019
+58,C63238,Survey,4,Could improve product quality.,13-10-2024
+59,C99900,Survey,3,"Very quick delivery, thanks!",22-02-2020
+60,C81337,Social Media,1,Could improve product quality.,28-08-2021
+61,C58911,Email,4,Product is overpriced.,15-06-2023
+62,C75777,Website Feedback,4,Very responsive support team.,25-06-2019
+63,C69179,Feedback,1,I received wrong item.,09-03-2024
+64,C56691,Survey,3,Poor communication from the team.,15-02-2019
+65,C31873,Survey,1,Product arrived damaged.,28-01-2023
+66,C50515,Feedback,2,"Easy to use, very user-friendly.",31-03-2024
+67,C28360,Survey,5,Customer support was helpful.,29-06-2023
+68,C24421,Survey,3,"Great experience, very satisfied!",09-05-2021
+69,C34348,Survey,1,Too many ads on the platform.,25-07-2020
+70,C97737,Live Chat,3,Very responsive support team.,24-01-2020
+71,C88556,Customer interviews,2,Response time was a bit slow.,21-11-2020
+72,C84367,Social Media,1,"Great experience, very satisfied!",03-03-2019
+73,C93473,Survey,1,Too many bugs in the app.,28-10-2023
+74,C22841,Feedback,4,The app is too slow.,02-12-2022
+75,C76297,Email,4,Excellent customer support!,28-08-2020
+76,C89047,Social Media,2,The app is too slow.,18-02-2024
+77,C49148,Survey,2,"Great experience, very satisfied!",27-06-2023
+78,C68761,Website Feedback,2,The app keeps crashing.,30-01-2019
+79,C77006,Feedback,1,Product is overpriced.,24-12-2023
+80,C86177,Feedback,2,"Easy to use, very user-friendly.",10-10-2024
+81,C97916,Email,3,Didn't meet my expectations.,16-02-2020
+82,C57018,Survey,2,Poor communication from the team.,27-02-2023
+83,C77971,Social Media,1,The service was excellent!,22-06-2022
+84,C97865,Email,1,I received wrong item.,04-02-2019
+85,C16170,Live Chat,5,Poor communication from the team.,24-09-2022
+86,C25475,Feedback,2,Love the new updates!,18-04-2022
+87,C30535,Live Chat,4,The app keeps crashing.,02-04-2022
+88,C82375,Email,3,Poor communication from the team.,02-07-2019
+89,C22304,Live Chat,2,"Great experience, very satisfied!",21-08-2023
+90,C86074,Survey,3,Customer support was helpful.,23-04-2022
+91,C89818,Social Media,2,I faced issues with payment.,04-11-2021
+92,C97198,Survey,3,Product is overpriced.,15-02-2023
+93,C25190,Live Chat,4,"Easy to use, very user-friendly.",17-10-2023
+94,C99331,Feedback,3,"Great experience, very satisfied!",10-02-2023
+95,C67851,Customer interviews,1,Didn't meet my expectations.,29-05-2021
+96,C16964,Live Chat,3,Excellent customer support!,11-09-2024
+97,C11090,Email,2,Will recommend to others!,25-09-2023
+98,C45994,Feedback,4,Very responsive support team.,17-05-2024
+99,C25978,Survey,5,Too many ads on the platform.,10-06-2020
+100,C81428,Social Media,5,Will recommend to others!,14-03-2024
+101,C61305,Feedback,4,Could improve product quality.,07-09-2023
+102,C96922,Email,3,The app is too slow.,16-10-2023
+103,C16621,Survey,5,Could improve product quality.,28-09-2020
+104,C62730,Customer interviews,1,Will recommend to others!,06-08-2021
+105,C62005,Customer interviews,1,I faced issues with payment.,30-12-2019
+106,C23908,Customer interviews,2,Shipping took longer than expected.,30-08-2021
+107,C18671,Customer interviews,1,Could improve product quality.,01-05-2020
+108,C37890,Website Feedback,1,Very responsive support team.,17-02-2019
+109,C59113,Social Media,4,Perfect for my needs!,06-07-2021
+110,C50055,Customer interviews,1,Product is overpriced.,08-07-2021
+111,C13151,Survey,3,The quality of service has declined.,16-04-2020
+112,C48558,Customer interviews,1,"Great experience, very satisfied!",20-09-2020
+113,C84879,Survey,3,Very responsive support team.,21-02-2022
+114,C88436,Live Chat,1,Love the new updates!,20-04-2024
+115,C53967,Survey,2,"Easy to use, very user-friendly.",27-11-2020
+116,C11465,Feedback,1,Excellent customer support!,05-12-2020
+117,C91300,Live Chat,1,The service was excellent!,22-11-2023
+118,C53454,Social Media,1,Love the new updates!,29-04-2022
+119,C95047,Survey,2,Customer support was helpful.,22-08-2024
+120,C32455,Feedback,3,I faced issues with payment.,01-11-2021
+121,C77617,Social Media,1,Poor communication from the team.,13-09-2020
+122,C49135,Feedback,4,I faced issues with payment.,17-10-2024
+123,C12517,Customer interviews,4,Too many ads on the platform.,26-07-2023
+124,C72207,Live Chat,5,Excellent customer support!,01-04-2022
+125,C86968,Live Chat,2,Too many bugs in the app.,08-09-2023
+126,C55368,Email,2,The app keeps crashing.,25-08-2021
+127,C91429,Social Media,2,Product is overpriced.,24-06-2023
+128,C75300,Social Media,3,The app is too slow.,01-11-2023
+129,C99309,Survey,1,The quality of service has declined.,13-01-2020
+130,C49586,Website Feedback,4,The service was excellent!,16-09-2022
+131,C43052,Email,1,"Easy to use, very user-friendly.",23-02-2024
+132,C13454,Social Media,3,Could improve product quality.,13-07-2020
+133,C70346,Live Chat,3,Not happy with the service.,09-03-2024
+134,C62361,Customer interviews,2,The service was excellent!,18-10-2020
+135,C28618,Social Media,3,Will recommend to others!,27-08-2020
+136,C91108,Customer interviews,3,The quality of service has declined.,08-02-2024
+137,C88922,Customer interviews,3,Shipping took longer than expected.,30-10-2020
+138,C40406,Email,4,The app keeps crashing.,19-10-2021
+139,C69938,Website Feedback,2,The app keeps crashing.,10-08-2020
+140,C65311,Feedback,2,Will recommend to others!,30-12-2019
+141,C15395,Email,1,I faced issues with payment.,10-07-2020
+142,C57930,Email,4,Will recommend to others!,11-11-2021
+143,C35059,Survey,5,Very responsive support team.,30-10-2023
+144,C37709,Survey,5,Product is overpriced.,08-11-2019
+145,C26865,Feedback,5,Didn't meet my expectations.,18-10-2022
+146,C75713,Live Chat,2,The app is too slow.,17-11-2019
+147,C67835,Customer interviews,1,"Great experience, very satisfied!",17-07-2022
+148,C86734,Social Media,3,I received wrong item.,30-11-2020
+149,C39671,Social Media,5,"Easy to use, very user-friendly.",04-09-2022
+150,C22331,Survey,2,"Great experience, very satisfied!",08-05-2020
+151,C34963,Customer interviews,2,Excellent customer support!,13-01-2024
+152,C10431,Email,2,I faced issues with payment.,30-06-2024
+153,C44699,Email,2,Didn't meet my expectations.,06-09-2023
+154,C60946,Feedback,4,Too many ads on the platform.,13-06-2022
+155,C55921,Customer interviews,1,"Great experience, very satisfied!",08-09-2020
+156,C72285,Feedback,5,The quality of service has declined.,26-04-2021
+157,C71679,Website Feedback,3,Too many bugs in the app.,17-01-2022
+158,C62933,Email,3,The app is too slow.,18-10-2021
+159,C18064,Live Chat,3,Response time was a bit slow.,30-04-2023
+160,C71033,Live Chat,2,Perfect for my needs!,17-05-2022
+161,C85336,Feedback,5,"Great experience, very satisfied!",15-03-2020
+162,C65734,Website Feedback,4,"Very quick delivery, thanks!",02-01-2024
+163,C22515,Survey,5,Didn't meet my expectations.,18-03-2023
+164,C87205,Feedback,3,Very responsive support team.,18-03-2021
+165,C97879,Customer interviews,2,I faced issues with payment.,21-08-2021
+166,C99404,Survey,1,Too many ads on the platform.,26-10-2023
+167,C41533,Feedback,3,Product arrived damaged.,31-10-2022
+168,C24198,Survey,1,Product arrived damaged.,23-11-2021
+169,C41987,Email,4,Could improve product quality.,04-03-2020
+170,C33163,Feedback,4,Response time was a bit slow.,09-01-2024
+171,C30383,Customer interviews,4,I faced issues with payment.,09-11-2020
+172,C55945,Email,3,"Easy to use, very user-friendly.",09-10-2024
+173,C82305,Survey,2,Excellent customer support!,21-02-2020
+174,C85516,Customer interviews,2,Will recommend to others!,13-12-2021
+175,C57096,Survey,1,Will recommend to others!,02-10-2020
+176,C60531,Customer interviews,3,Response time was a bit slow.,01-04-2019
+177,C67148,Live Chat,5,Product is overpriced.,30-12-2019
+178,C12041,Survey,2,Perfect for my needs!,06-06-2019
+179,C22499,Email,1,Could improve product quality.,09-08-2023
+180,C29327,Survey,4,I received wrong item.,22-06-2019
+181,C97720,Customer interviews,2,"Easy to use, very user-friendly.",12-02-2023
+182,C35808,Email,5,Perfect for my needs!,27-01-2020
+183,C80676,Survey,5,"Very quick delivery, thanks!",31-08-2024
+184,C56854,Survey,5,Not happy with the service.,31-03-2023
+185,C97087,Customer interviews,2,Excellent customer support!,07-08-2023
+186,C37806,Email,5,The app is too slow.,14-09-2019
+187,C10069,Email,3,Will recommend to others!,26-05-2024
+188,C23202,Survey,3,Could improve product quality.,22-11-2021
+189,C39776,Customer interviews,4,I received wrong item.,04-08-2023
+190,C24542,Customer interviews,3,Customer support was helpful.,25-01-2021
+191,C81000,Customer interviews,4,Response time was a bit slow.,29-09-2024
+192,C43686,Feedback,4,"Great experience, very satisfied!",16-03-2021
+193,C77685,Feedback,1,Love the new updates!,16-07-2019
+194,C66851,Live Chat,3,Will recommend to others!,16-06-2019
+195,C53018,Customer interviews,2,Perfect for my needs!,13-12-2023
+196,C88765,Live Chat,2,The quality of service has declined.,16-04-2024
+197,C79732,Email,4,I faced issues with payment.,04-01-2023
+198,C99680,Live Chat,2,Shipping took longer than expected.,24-12-2019
+199,C76924,Feedback,1,Product is overpriced.,21-08-2020
+200,C18030,Survey,3,Too many ads on the platform.,03-05-2021
+201,C34504,Customer interviews,1,Not happy with the service.,27-06-2022
+202,C41225,Customer interviews,5,Not happy with the service.,19-12-2021
+203,C42146,Live Chat,3,The app keeps crashing.,16-02-2024
+204,C63536,Email,2,Not happy with the service.,22-05-2021
+205,C37081,Customer interviews,4,Too many bugs in the app.,16-03-2019
+206,C50189,Website Feedback,4,I received wrong item.,25-05-2023
+207,C21343,Customer interviews,4,Love the new updates!,02-01-2019
+208,C32754,Social Media,3,Product is overpriced.,16-09-2021
+209,C68574,Website Feedback,1,The quality of service has declined.,11-10-2021
+210,C45235,Customer interviews,3,Poor communication from the team.,27-02-2024
+211,C63112,Email,4,Product arrived damaged.,18-12-2019
+212,C15339,Social Media,5,I faced issues with payment.,11-10-2020
+213,C99363,Feedback,5,Perfect for my needs!,01-09-2019
+214,C84224,Survey,2,The quality of service has declined.,21-01-2019
+215,C36659,Feedback,1,Shipping took longer than expected.,11-09-2022
+216,C25608,Customer interviews,4,Could improve product quality.,27-07-2022
+217,C69924,Feedback,1,Excellent customer support!,05-06-2019
+218,C38383,Social Media,5,Love the new updates!,15-10-2019
+219,C83076,Feedback,3,Could improve product quality.,22-08-2024
+220,C98691,Website Feedback,1,"Easy to use, very user-friendly.",02-03-2019
+221,C39065,Social Media,1,Could improve product quality.,08-10-2022
+222,C79187,Customer interviews,1,Not happy with the service.,03-10-2023
+223,C36889,Feedback,4,Not happy with the service.,01-10-2020
+224,C45680,Social Media,4,Customer support was helpful.,05-12-2022
+225,C98055,Feedback,4,Love the new updates!,10-10-2019
+226,C21983,Survey,3,Will recommend to others!,24-04-2020
+227,C73476,Email,2,"Great experience, very satisfied!",09-05-2023
+228,C24814,Feedback,5,Will recommend to others!,03-07-2021
+229,C31997,Survey,4,Customer support was helpful.,10-04-2024
+230,C62406,Live Chat,4,Could improve product quality.,28-02-2019
+231,C20647,Feedback,4,Perfect for my needs!,14-09-2020
+232,C11729,Live Chat,5,Could improve product quality.,16-05-2023
+233,C89339,Email,5,The quality of service has declined.,04-08-2019
+234,C54476,Email,4,Too many bugs in the app.,10-03-2020
+235,C43459,Social Media,1,Shipping took longer than expected.,14-09-2024
+236,C27254,Website Feedback,5,"Great experience, very satisfied!",05-02-2019
+237,C70163,Survey,4,Didn't meet my expectations.,17-07-2022
+238,C50604,Survey,3,The service was excellent!,02-01-2021
+239,C72278,Survey,2,Customer support was helpful.,11-02-2021
+240,C98839,Live Chat,5,Very responsive support team.,02-03-2024
+241,C19908,Feedback,3,Product is overpriced.,07-01-2024
+242,C47775,Feedback,2,Not happy with the service.,15-06-2021
+243,C23374,Email,5,Didn't meet my expectations.,16-06-2019
+244,C43791,Website Feedback,3,Very responsive support team.,27-12-2019
+245,C30211,Survey,1,Shipping took longer than expected.,13-01-2023
+246,C57660,Customer interviews,3,Love the new updates!,17-09-2020
+247,C89842,Social Media,4,Customer support was helpful.,17-02-2024
+248,C50305,Email,5,Will recommend to others!,20-08-2024
+249,C80513,Live Chat,5,Didn't meet my expectations.,28-09-2020
+250,C74793,Feedback,4,Not happy with the service.,06-10-2019
+251,C67870,Website Feedback,3,The service was excellent!,07-02-2020
+252,C92480,Live Chat,5,Very responsive support team.,31-12-2022
+253,C89182,Feedback,5,Response time was a bit slow.,21-04-2020
+254,C12805,Live Chat,1,The app keeps crashing.,25-09-2022
+255,C85879,Survey,1,Perfect for my needs!,11-12-2021
+256,C23167,Customer interviews,5,The app keeps crashing.,11-06-2021
+257,C28602,Customer interviews,3,The app keeps crashing.,25-09-2022
+258,C41099,Customer interviews,1,Product arrived damaged.,14-03-2023
+259,C28716,Survey,1,Didn't meet my expectations.,18-05-2023
+260,C20400,Survey,2,Customer support was helpful.,18-04-2023
+261,C85223,Email,4,Not happy with the service.,31-10-2021
+262,C16484,Feedback,4,"Easy to use, very user-friendly.",07-04-2019
+263,C81364,Customer interviews,2,I faced issues with payment.,01-04-2024
+264,C99445,Social Media,2,Shipping took longer than expected.,08-04-2022
+265,C22029,Website Feedback,1,Didn't meet my expectations.,16-08-2021
+266,C75312,Customer interviews,4,The service was excellent!,03-06-2020
+267,C26966,Website Feedback,1,Shipping took longer than expected.,21-08-2019
+268,C53313,Website Feedback,5,The app keeps crashing.,09-03-2024
+269,C43984,Survey,2,Very responsive support team.,18-07-2022
+270,C31529,Feedback,3,The app keeps crashing.,12-10-2019
+271,C18936,Live Chat,2,Product arrived damaged.,16-02-2019
+272,C54175,Survey,5,"Easy to use, very user-friendly.",02-04-2019
+273,C44533,Social Media,1,"Easy to use, very user-friendly.",29-04-2020
+274,C70170,Survey,5,Customer support was helpful.,20-10-2020
+275,C55901,Customer interviews,1,Poor communication from the team.,02-04-2023
+276,C91455,Website Feedback,4,"Very quick delivery, thanks!",02-07-2022
+277,C94677,Social Media,1,Very responsive support team.,03-01-2023
+278,C69934,Feedback,2,Too many ads on the platform.,13-11-2021
+279,C93193,Feedback,2,Product arrived damaged.,29-03-2024
+280,C16338,Social Media,3,Will recommend to others!,10-11-2023
+281,C69065,Social Media,5,Will recommend to others!,17-04-2022
+282,C44750,Feedback,2,Poor communication from the team.,07-07-2021
+283,C95784,Website Feedback,4,Excellent customer support!,18-10-2021
+284,C75380,Customer interviews,4,I received wrong item.,19-04-2024
+285,C53131,Website Feedback,1,Shipping took longer than expected.,18-03-2024
+286,C85948,Website Feedback,3,"Easy to use, very user-friendly.",01-02-2020
+287,C86921,Email,4,Response time was a bit slow.,11-04-2021
+288,C84813,Social Media,1,Could improve product quality.,26-05-2023
+289,C18383,Live Chat,4,Poor communication from the team.,22-11-2021
+290,C96007,Survey,2,Poor communication from the team.,03-07-2022
+291,C26411,Email,1,Shipping took longer than expected.,09-02-2022
+292,C73809,Live Chat,2,Product arrived damaged.,23-06-2022
+293,C21033,Email,2,The app is too slow.,18-06-2021
+294,C44219,Live Chat,3,Will recommend to others!,21-12-2022
+295,C66965,Feedback,4,The service was excellent!,09-02-2022
+296,C52439,Survey,5,The service was excellent!,12-09-2024
+297,C11475,Survey,5,I received wrong item.,27-08-2020
+298,C23599,Customer interviews,3,Didn't meet my expectations.,08-04-2020
+299,C35933,Website Feedback,1,The app keeps crashing.,16-11-2021
+300,C82891,Social Media,1,Shipping took longer than expected.,12-01-2020
+301,C57246,Live Chat,1,Too many bugs in the app.,08-02-2019
+302,C55873,Survey,1,Too many bugs in the app.,17-10-2023
+303,C33125,Email,1,The app keeps crashing.,02-09-2021
+304,C10224,Customer interviews,3,I received wrong item.,19-12-2021
+305,C28148,Feedback,5,The quality of service has declined.,19-03-2019
+306,C54830,Social Media,2,Too many ads on the platform.,28-05-2020
+307,C31544,Email,5,Very responsive support team.,17-02-2024
+308,C63744,Survey,2,Too many bugs in the app.,14-01-2021
+309,C46576,Social Media,4,Too many bugs in the app.,08-02-2024
+310,C99652,Social Media,1,"Great experience, very satisfied!",22-02-2019
+311,C44380,Survey,4,"Easy to use, very user-friendly.",24-11-2020
+312,C28745,Feedback,3,The service was excellent!,15-12-2022
+313,C71736,Live Chat,5,Love the new updates!,30-04-2023
+314,C85667,Survey,4,Response time was a bit slow.,27-11-2020
+315,C33319,Social Media,5,I received wrong item.,16-01-2024
+316,C94544,Customer interviews,2,The app keeps crashing.,14-08-2022
+317,C66004,Social Media,1,Too many ads on the platform.,13-01-2024
+318,C53328,Live Chat,2,Excellent customer support!,23-01-2024
+319,C95957,Social Media,2,Didn't meet my expectations.,17-04-2021
+320,C69160,Feedback,4,Will recommend to others!,20-04-2019
+321,C24444,Feedback,1,I received wrong item.,03-11-2020
+322,C37159,Live Chat,4,"Very quick delivery, thanks!",20-06-2021
+323,C89123,Survey,2,Too many ads on the platform.,23-12-2023
+324,C61296,Email,2,Could improve product quality.,12-12-2021
+325,C86575,Live Chat,5,The quality of service has declined.,08-02-2024
+326,C58737,Survey,5,Too many bugs in the app.,07-03-2024
+327,C40267,Survey,4,The service was excellent!,15-10-2021
+328,C56347,Live Chat,2,"Great experience, very satisfied!",20-12-2020
+329,C67805,Feedback,3,Excellent customer support!,15-08-2020
+330,C14327,Email,5,Perfect for my needs!,30-01-2021
+331,C60465,Feedback,4,Poor communication from the team.,13-03-2024
+332,C46386,Email,5,Product arrived damaged.,30-05-2019
+333,C15303,Survey,5,Perfect for my needs!,05-09-2022
+334,C45353,Website Feedback,3,Customer support was helpful.,21-07-2022
+335,C30352,Website Feedback,4,"Very quick delivery, thanks!",15-12-2023
+336,C87746,Survey,1,I received wrong item.,27-09-2024
+337,C39202,Customer interviews,3,Product arrived damaged.,13-07-2021
+338,C68623,Survey,5,"Easy to use, very user-friendly.",13-01-2020
+339,C58402,Survey,1,Customer support was helpful.,06-04-2021
+340,C29115,Feedback,1,Too many ads on the platform.,02-08-2024
+341,C43914,Social Media,3,Response time was a bit slow.,04-07-2019
+342,C65689,Feedback,5,Too many ads on the platform.,03-08-2021
+343,C66071,Email,4,Customer support was helpful.,27-03-2019
+344,C49607,Social Media,3,Shipping took longer than expected.,02-11-2022
+345,C51834,Survey,5,Very responsive support team.,11-09-2023
+346,C48926,Live Chat,3,The app keeps crashing.,02-10-2023
+347,C72101,Email,2,The service was excellent!,25-02-2019
+348,C49539,Feedback,3,"Great experience, very satisfied!",26-06-2020
+349,C46767,Email,5,Not happy with the service.,30-07-2024
+350,C30022,Feedback,5,The app is too slow.,17-02-2023
+351,C64493,Feedback,3,Could improve product quality.,20-09-2019
+352,C12039,Website Feedback,2,Poor communication from the team.,09-09-2020
+353,C21460,Email,3,The app is too slow.,08-12-2020
+354,C39586,Feedback,4,The service was excellent!,02-10-2020
+355,C80543,Customer interviews,1,Too many ads on the platform.,19-04-2024
+356,C88609,Website Feedback,3,I faced issues with payment.,01-06-2019
+357,C49471,Email,4,Poor communication from the team.,20-01-2023
+358,C50952,Social Media,2,"Great experience, very satisfied!",31-10-2021
+359,C81108,Website Feedback,3,Too many bugs in the app.,17-01-2023
+360,C54838,Live Chat,4,Product arrived damaged.,15-05-2021
+361,C68562,Survey,3,"Very quick delivery, thanks!",28-05-2019
+362,C34137,Customer interviews,3,Too many ads on the platform.,10-05-2022
+363,C23050,Social Media,3,Response time was a bit slow.,07-04-2022
+364,C10584,Customer interviews,5,Customer support was helpful.,10-05-2019
+365,C57555,Survey,1,I received wrong item.,13-01-2019
+366,C30679,Website Feedback,4,"Great experience, very satisfied!",12-03-2023
+367,C87230,Survey,3,Response time was a bit slow.,21-07-2020
+368,C47602,Customer interviews,3,Didn't meet my expectations.,25-05-2024
+369,C62007,Social Media,2,Too many ads on the platform.,08-06-2024
+370,C11043,Email,3,I received wrong item.,29-12-2020
+371,C59547,Social Media,1,Didn't meet my expectations.,24-06-2021
+372,C40347,Survey,4,"Very quick delivery, thanks!",15-06-2021
+373,C39523,Feedback,1,Too many bugs in the app.,10-02-2022
+374,C53980,Feedback,2,"Very quick delivery, thanks!",19-10-2022
+375,C66346,Survey,5,Product arrived damaged.,01-01-2019
+376,C60273,Live Chat,2,"Easy to use, very user-friendly.",11-06-2020
+377,C88822,Email,5,Excellent customer support!,26-10-2019
+378,C67806,Email,2,"Great experience, very satisfied!",09-09-2023
+379,C53398,Feedback,2,"Great experience, very satisfied!",06-04-2020
+380,C88298,Feedback,2,"Easy to use, very user-friendly.",04-03-2021
+381,C91766,Live Chat,5,Too many bugs in the app.,24-03-2019
+382,C41966,Website Feedback,1,Will recommend to others!,25-01-2020
+383,C70247,Feedback,2,The service was excellent!,05-05-2023
+384,C49592,Survey,3,Could improve product quality.,02-09-2024
+385,C49293,Email,4,Too many bugs in the app.,30-04-2019
+386,C23500,Website Feedback,1,Too many ads on the platform.,05-03-2021
+387,C88800,Live Chat,2,Poor communication from the team.,06-02-2019
+388,C47537,Survey,5,I received wrong item.,23-11-2022
+389,C69842,Website Feedback,3,The quality of service has declined.,23-06-2020
+390,C41737,Feedback,4,Response time was a bit slow.,27-08-2024
+391,C93249,Email,2,Poor communication from the team.,02-07-2022
+392,C25999,Live Chat,3,Perfect for my needs!,19-10-2023
+393,C12785,Survey,2,The app keeps crashing.,04-03-2023
+394,C32530,Feedback,1,Could improve product quality.,24-01-2021
+395,C34982,Feedback,1,The app is too slow.,06-05-2020
+396,C57059,Website Feedback,3,Excellent customer support!,12-07-2023
+397,C99897,Website Feedback,1,The quality of service has declined.,25-02-2021
+398,C42478,Website Feedback,3,"Very quick delivery, thanks!",02-04-2020
+399,C36863,Feedback,1,Not happy with the service.,01-02-2024
+400,C44880,Website Feedback,1,"Great experience, very satisfied!",14-12-2021
+401,C81447,Social Media,1,Very responsive support team.,09-08-2021
+402,C21150,Survey,3,I received wrong item.,16-07-2020
+403,C83091,Survey,3,The app is too slow.,26-04-2024
+404,C41870,Social Media,3,The service was excellent!,05-05-2024
+405,C86473,Feedback,2,Product arrived damaged.,14-03-2019
+406,C38317,Survey,2,Very responsive support team.,27-01-2023
+407,C52480,Social Media,4,Could improve product quality.,04-01-2024
+408,C20853,Social Media,3,The app keeps crashing.,15-01-2024
+409,C20269,Social Media,2,Product arrived damaged.,06-04-2019
+410,C37833,Customer interviews,1,Love the new updates!,08-07-2021
+411,C78579,Customer interviews,4,Very responsive support team.,30-12-2019
+412,C30403,Email,2,Response time was a bit slow.,24-05-2019
+413,C92625,Feedback,5,The service was excellent!,16-03-2023
+414,C92984,Social Media,2,"Very quick delivery, thanks!",02-03-2022
+415,C92834,Social Media,2,Poor communication from the team.,07-10-2023
+416,C68205,Feedback,1,I faced issues with payment.,22-07-2019
+417,C61191,Social Media,5,Shipping took longer than expected.,20-01-2022
+418,C76182,Social Media,2,Excellent customer support!,24-01-2022
+419,C14061,Customer interviews,4,Not happy with the service.,22-12-2021
+420,C63291,Live Chat,1,"Very quick delivery, thanks!",31-01-2022
+421,C73046,Customer interviews,4,Poor communication from the team.,10-02-2023
+422,C84645,Live Chat,5,Poor communication from the team.,27-06-2023
+423,C77600,Customer interviews,2,Could improve product quality.,20-09-2020
+424,C48853,Feedback,3,Didn't meet my expectations.,10-09-2022
+425,C49331,Email,5,Response time was a bit slow.,07-03-2020
+426,C88796,Website Feedback,4,The service was excellent!,29-07-2019
+427,C42331,Email,1,"Very quick delivery, thanks!",27-08-2023
+428,C78220,Survey,1,Product arrived damaged.,14-06-2021
+429,C69794,Customer interviews,3,Excellent customer support!,17-05-2019
+430,C26317,Email,4,The quality of service has declined.,18-03-2024
+431,C91395,Social Media,2,Customer support was helpful.,04-12-2022
+432,C72508,Social Media,2,Shipping took longer than expected.,25-05-2022
+433,C78818,Customer interviews,3,"Great experience, very satisfied!",24-06-2024
+434,C23124,Social Media,5,Product arrived damaged.,16-05-2024
+435,C77290,Live Chat,1,"Easy to use, very user-friendly.",27-06-2021
+436,C46244,Website Feedback,4,The app keeps crashing.,28-10-2023
+437,C36733,Feedback,1,Not happy with the service.,15-01-2020
+438,C24065,Website Feedback,5,Not happy with the service.,08-02-2023
+439,C95299,Customer interviews,2,The app keeps crashing.,28-02-2023
+440,C35991,Website Feedback,1,Poor communication from the team.,19-05-2023
+441,C89581,Email,2,"Very quick delivery, thanks!",10-05-2019
+442,C79643,Social Media,2,Response time was a bit slow.,18-02-2024
+443,C11512,Website Feedback,5,Too many ads on the platform.,15-05-2019
+444,C26137,Live Chat,2,Very responsive support team.,23-10-2023
+445,C49781,Feedback,2,"Easy to use, very user-friendly.",01-01-2020
+446,C48797,Email,3,The service was excellent!,07-05-2021
+447,C12414,Survey,1,Customer support was helpful.,14-09-2021
+448,C76029,Social Media,4,Too many bugs in the app.,15-05-2019
+449,C77509,Survey,2,Too many bugs in the app.,28-10-2024
+450,C85562,Email,1,Product is overpriced.,09-10-2019
+451,C16706,Website Feedback,4,Too many ads on the platform.,01-07-2022
+452,C36263,Live Chat,1,Could improve product quality.,24-05-2019
+453,C17515,Feedback,5,Could improve product quality.,23-11-2022
+454,C10342,Customer interviews,5,The quality of service has declined.,30-07-2019
+455,C41426,Survey,2,Not happy with the service.,27-03-2022
+456,C81879,Live Chat,2,Excellent customer support!,05-01-2019
+457,C70583,Social Media,5,Didn't meet my expectations.,30-09-2022
+458,C20319,Website Feedback,1,Not happy with the service.,06-08-2020
+459,C40512,Live Chat,3,Perfect for my needs!,24-08-2021
+460,C70446,Customer interviews,5,Product is overpriced.,04-06-2020
+461,C40252,Website Feedback,3,Love the new updates!,11-02-2021
+462,C49659,Survey,3,Very responsive support team.,14-03-2022
+463,C64378,Live Chat,4,I received wrong item.,12-05-2019
+464,C31271,Social Media,1,Didn't meet my expectations.,08-10-2023
+465,C28233,Survey,5,Love the new updates!,04-11-2023
+466,C41885,Survey,2,Customer support was helpful.,30-03-2024
+467,C66728,Customer interviews,1,Love the new updates!,06-04-2023
+468,C18598,Live Chat,4,Excellent customer support!,27-11-2020
+469,C12524,Email,4,Excellent customer support!,30-01-2021
+470,C43112,Social Media,5,Excellent customer support!,02-01-2019
+471,C59924,Website Feedback,3,Will recommend to others!,16-06-2019
+472,C99357,Feedback,5,Product arrived damaged.,03-06-2020
+473,C38141,Email,5,"Easy to use, very user-friendly.",19-06-2022
+474,C79875,Customer interviews,3,Poor communication from the team.,18-04-2019
+475,C49056,Feedback,2,Very responsive support team.,14-04-2022
+476,C67091,Social Media,4,"Easy to use, very user-friendly.",20-07-2022
+477,C25085,Survey,4,Will recommend to others!,08-04-2021
+478,C31070,Feedback,4,"Great experience, very satisfied!",16-06-2024
+479,C85445,Survey,5,Could improve product quality.,07-05-2022
+480,C24919,Email,3,The service was excellent!,08-09-2020
+481,C26803,Live Chat,1,Very responsive support team.,04-06-2023
+482,C52577,Email,5,"Very quick delivery, thanks!",09-07-2024
+483,C70183,Social Media,3,The service was excellent!,14-05-2022
+484,C46468,Website Feedback,3,The service was excellent!,24-12-2019
+485,C69625,Survey,5,Response time was a bit slow.,11-02-2024
+486,C99225,Website Feedback,3,Response time was a bit slow.,31-07-2021
+487,C71415,Live Chat,4,Poor communication from the team.,08-04-2023
+488,C16160,Email,4,Too many ads on the platform.,24-09-2023
+489,C76947,Feedback,3,Too many ads on the platform.,30-09-2022
+490,C71755,Website Feedback,3,Product is overpriced.,12-12-2022
+491,C29985,Website Feedback,1,"Very quick delivery, thanks!",12-07-2024
+492,C76107,Feedback,3,"Very quick delivery, thanks!",05-08-2023
+493,C75997,Website Feedback,3,Love the new updates!,25-02-2023
+494,C90966,Live Chat,2,Shipping took longer than expected.,14-02-2024
+495,C51672,Social Media,1,Too many bugs in the app.,08-08-2024
+496,C45349,Live Chat,3,Too many ads on the platform.,04-11-2023
+497,C36546,Feedback,5,Will recommend to others!,10-11-2021
+498,C34641,Live Chat,4,Not happy with the service.,14-10-2020
+499,C18644,Social Media,5,Could improve product quality.,06-02-2020
